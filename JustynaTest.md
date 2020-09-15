@@ -53,7 +53,7 @@ Powrót do [pierwszej sekcji](#to-jest-tytul-sekcji).
 
 ## Listy
 
-### Lista nieuporządkowana
+### Lista punktowa
 
 - Cukier
 - Jajka
@@ -63,10 +63,10 @@ Powrót do [pierwszej sekcji](#to-jest-tytul-sekcji).
     - Szkloki
         - Winogronowe
 
-* Kot
-* Pies 
-* Kuń
 * Koza
+* Kuń
+* Pies 
+* Kot
 
 ### Lista uporządkowana
 
