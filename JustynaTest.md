@@ -78,3 +78,7 @@ Powrót do [pierwszej sekcji](#to-jest-tytuł-sekcji).
 1. Stwórz nową gałąź.
 1. Przejdź do nowej gałęzi.
 1. Wprowadź zmiany.
+
+## Obrazek
+
+![Cloud meme](assets/cloud.jpg)
