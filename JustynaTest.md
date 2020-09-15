@@ -10,7 +10,7 @@ Nie wiem, co napisać, **także piszę bzdury**.
 
 ## To jest tytuł sekcji
 
-| parametr | opis | wartość |
+| Parametr | Opis | Wartość |
 |----------|------|:-------:|
 | **cokolwiek** | tak | `250` |
 
@@ -33,9 +33,11 @@ Nie wiem, co napisać, **także piszę bzdury**.
   <summary label="LABELKA3">
   Tytuł 3
   </summary>
-  Nie pamiętam, jak to dalej leci. [Wierszyk o chrząszczu w Szczebrzeszynie](https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie)
+  Nie pamiętam, jak to dalej leci. 
   </details>
 </div>
+
+[Wierszyk o chrząszczu w Szczebrzeszynie](https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie)
 
 ## Nowa sekcja
 
@@ -49,7 +51,7 @@ A tak sobie sklonowałam repozytorium:
 git clone {REPO_URL}
 ```
 
-Powrót do [pierwszej sekcji](#to-jest-tytul-sekcji).
+Powrót do [pierwszej sekcji](#to-jest-tytuł-sekcji).
 
 ## Listy
 
