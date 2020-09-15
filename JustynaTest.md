@@ -82,3 +82,5 @@ Powrót do [pierwszej sekcji](#to-jest-tytuł-sekcji).
 ## Obrazek
 
 ![Cloud meme](assets/cloud.jpg)
+
+I to by było na tyle!
