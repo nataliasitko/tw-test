@@ -37,7 +37,7 @@ Nie wiem, co napisać, **także piszę bzdury**.
   </details>
 </div>
 
-[Wierszyk o chrząszczu w Szczebrzeszynie](https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie)
+- [Wierszyk o chrząszczu w Szczebrzeszynie](https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie)
 
 ## Nowa sekcja
 
