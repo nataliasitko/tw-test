@@ -33,7 +33,7 @@ Nie wiem, co napisać, **także piszę bzdury**.
   <summary label="LABELKA3">
   Tytuł 3
   </summary>
-  Nie pamiętam, jak to dalej leci. 
+  Nie pamiętam, jak to dalej leci. <a href="https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie">Wierszyk o chrząszczu w Szczebrzeszynie</a>
   </details>
 </div>
 
