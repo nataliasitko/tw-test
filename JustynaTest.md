@@ -49,7 +49,7 @@ A tak sobie sklonowałam repozytorium:
 git clone {REPO_URL}
 ```
 
-Powrót do [pierwszej sekcji](#to-jest-tytul-sekcji)
+Powrót do [pierwszej sekcji](#to-jest-tytul-sekcji).
 
 ## Listy
 
