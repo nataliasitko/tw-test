@@ -4,7 +4,7 @@ Autor:
     github name: superojla
 Data: 15.09.2020
 ---
-#To jest tytuł
+# To jest tytuł
 
 Nie wiem, co napisać, **także piszę bzdury**.
 
@@ -33,7 +33,7 @@ Nie wiem, co napisać, **także piszę bzdury**.
   <summary label="LABELKA3">
   Tytuł 3
   </summary>
-  Nie pamiętam, jak to dalej leci. [wierszyk o chrząszczu w Szczebrzeszynie](https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie)
+  Nie pamiętam, jak to dalej leci. [Wierszyk o chrząszczu w Szczebrzeszynie](https://www.tenpieknyswiat.pl/2007/05/09/w-szczebrzeszynie-chrzaszcz-brzmi-w-trzcinie)
   </details>
 </div>
 
