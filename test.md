@@ -55,7 +55,7 @@ Text
   </summary>
   ...
   </details>
-  <details>
+  <details open>
   <summary label="aks">
   AKS
   </summary>
